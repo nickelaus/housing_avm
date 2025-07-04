@@ -1,5 +1,5 @@
 # Housing AVM / Hybrid AVM (Automated Valuation Model) Project
-ML tool to estimate house prices using key features, trained on comps - see if the house your looking at is overpriced! 
+ML tool to estimate house prices using key features, trained on comps - see if the house you're looking at is overpriced! 
 Combines web scraping, data preprocessing, and machine learning to predict property values.
 This is a simple personal project based on our interest in a very narrow market in W. Wyoming. Feel free to adapt to whichever area or criteria you'd like!
 (the rest of the readme is AI-generated)
